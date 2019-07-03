@@ -26,7 +26,7 @@ public class ForEjemplo {
             t2 = inicio;
             inicio = inicio1 + inicio;
             inicio1 = t2;
-            System.out.print(" ."+t2+". ");
+            System.out.print(" "+t2+" ");
         }
     }
 
